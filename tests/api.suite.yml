@@ -1,0 +1,8 @@
+actor: ApiTester
+modules:
+    enabled:
+        - REST:
+            url: http://hotels-api.tajawal.local
+            depends: PhpBrowser
+            part: Json
+            xdebug_remote: true

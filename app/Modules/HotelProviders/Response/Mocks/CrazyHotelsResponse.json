@@ -1,0 +1,136 @@
+{
+  "hotels": [
+    {
+      "hotelName": "Crowne Plaza Festival City",
+      "rate": "****",
+      "price": 1400,
+      "discount": 100,
+      "amenities": [
+        "Air conditioning",
+        "Bathroom",
+        "bottled water",
+        "Hairdryer",
+        "Iron and board",
+        "Minibar",
+        "Refrigerator",
+        "Tea/Coffee maker"
+      ]
+    },
+    {
+      "hotelName": "Roda Al Murooj Hotel",
+      "rate": "*****",
+      "price": 1000.5,
+      "discount": 10,
+      "amenities": [
+        "Air conditioning",
+        "Bathroom",
+        "bottled water",
+        "Hairdryer",
+        "Iron and board",
+        "Minibar",
+        "Refrigerator",
+        "Tea/Coffee maker",
+        "Microwave",
+        "Desk",
+        "Walk In Closet"
+      ]
+    },
+    {
+      "hotelName": "Radisson Blu Hotel, Deira Creek",
+      "rate": "*****",
+      "price": 2500,
+      "discount": 0,
+      "amenities": [
+        "Air conditioning",
+        "Bathroom",
+        "bottled water",
+        "Hairdryer",
+        "Iron and board",
+        "Minibar",
+        "Refrigerator",
+        "Tea/Coffee maker",
+        "LED TV",
+        "Cookware",
+        "Car rental service"
+      ]
+    },
+    {
+      "hotelName": "Armani Hotel",
+      "rate": "***",
+      "price": 1500,
+      "discount": 20.5,
+      "amenities": [
+        "Air conditioning",
+        "Bathroom",
+        "Hairdryer",
+        "Iron and board",
+        "Refrigerator",
+        "Slippers",
+        "Massage",
+        "Currency exchange"
+      ]
+    },
+    {
+      "hotelName": "Flora Grand Hotel",
+      "rate": "**",
+      "price": 300.5,
+      "discount": 50,
+      "amenities": [
+        "Air conditioning",
+        "Bathroom",
+        "Hairdryer"
+      ]
+    },
+    {
+      "hotelName": "Ramada Downtown",
+      "rate": "****",
+      "price": 905,
+      "discount": 0,
+      "amenities": [
+        "Air conditioning",
+        "Bathroom",
+        "bottled water",
+        "Hairdryer",
+        "Iron and board",
+        "Kitchen",
+        "Refrigerator",
+        "Sofa bed",
+        "Telephone in bathroom",
+        "Walk In Closet"
+      ]
+    },
+    {
+      "hotelName": "Park Hyatt",
+      "rate": "***",
+      "price": 2020,
+      "discount": 100,
+      "amenities": [
+        "Air conditioning",
+        "Bathroom",
+        "bottled water",
+        "Hairdryer",
+        "Iron and board",
+        "Minibar",
+        "Refrigerator",
+        "Tea/Coffee maker",
+        "Fan",
+        "Telephone"
+      ]
+    },
+    {
+      "hotelName": "Marco Polo Hotel",
+      "rate": "****",
+      "price": 480.5,
+      "discount": 50,
+      "amenities": [
+        "Air conditioning",
+        "Bathroom",
+        "Hairdryer",
+        "Refrigerator",
+        "Safe",
+        "LCD TV",
+        "Currency exchange"
+      ]
+    }
+  ]
+}

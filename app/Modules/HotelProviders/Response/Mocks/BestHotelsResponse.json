@@ -1,0 +1,76 @@
+{
+  "hotels": [
+    {
+      "hotel": "Crowne Plaza Festival City",
+      "hotelRate": 4,
+      "hotelFare": 1405.6,
+      "roomAmenities": "Air conditioning,Bathroom,bottled water,Hairdryer,Iron and board,Minibar,Refrigerator,Tea/Coffee maker"
+    },
+    {
+      "hotel": "Sheraton Creek Hotel & Towers",
+      "hotelRate": 5,
+      "hotelFare": 1246.2,
+      "roomAmenities": "Air conditioning,Bathroom,bottled water,Hairdryer,Iron and board,Minibar,Refrigerator,Tea/Coffee maker,Telephone,TV,Safe"
+    },
+    {
+      "hotel": "Raffles Hotel",
+      "hotelRate": 4,
+      "hotelFare": 2412.02,
+      "roomAmenities": "Air conditioning,Bathroom,bottled water,Hairdryer,Iron and board,Minibar,Refrigerator,Tea/Coffee maker,DVD player,Housekeeping,Internet access,interConnected rooms"
+    },
+    {
+      "hotel": "Carlton Palace Hotel",
+      "hotelRate": 3,
+      "hotelFare": 481.49,
+      "roomAmenities": "Air conditioning,Bathroom,Bathrobe,Satellite Channels,Refrigerator,Coffee"
+    },
+    {
+      "hotel": "Copthorne Hotel",
+      "hotelRate": 2,
+      "hotelFare": 216,
+      "roomAmenities": "Air conditioning,Bathroom,Housekeeping"
+    },
+    {
+      "hotel": "Roda Al Murooj Hotel",
+      "hotelRate": 5,
+      "hotelFare": 924.99,
+      "roomAmenities": "Air conditioning,Bathroom,bottled water,Hairdryer,Iron and board,Minibar,Refrigerator,Tea/Coffee maker,Microwave,Desk,Walk In Closet"
+    },
+    {
+      "hotel": "Media Rotana",
+      "hotelRate": 4,
+      "hotelFare": 960.74,
+      "roomAmenities": "Air conditioning,Bathroom,Hairdryer,Iron and board,Minibar,Refrigerator"
+    },
+    {
+      "hotel": "Shangri-La Hotel",
+      "hotelRate": 5,
+      "hotelFare": 1651.95,
+      "roomAmenities": "Air conditioning,Bathroom,bottled water,Hairdryer,Iron and board,Minibar,Refrigerator,Tea/Coffee maker,Cribs,Toiletries,laundry service,Jacuzzi"
+    },
+    {
+      "hotel": "Holiday Inn Express Safa Park",
+      "hotelRate": 3,
+      "hotelFare": 412.17,
+      "roomAmenities": "Air conditioning,Bathroom,bottled water"
+    },
+    {
+      "hotel": "Hotel Versailles",
+      "hotelRate": 3,
+      "hotelFare": 307.63,
+      "roomAmenities": "Air conditioning,Bathroom,bottled water,Hairdryer,Wake up service"
+    },
+    {
+      "hotel": "Mercure Gold Hotel Al Mina Road",
+      "hotelRate": 4,
+      "hotelFare": 844.5,
+      "roomAmenities": "Air conditioning,Bathroom,bottled water,Hairdryer,Minibar,Refrigerator"
+    },
+    {
+      "hotel": "Arabian Courtyard Hotel & Spa",
+      "hotelRate": 2,
+      "hotelFare": 706.15,
+      "roomAmenities": "Air conditioning,Bathroom,Slippers,Housekeeping,Extra bed,Cookware,Tea/Coffee maker,TV"
+    }
+  ]
+}
